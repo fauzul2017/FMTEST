@@ -1,0 +1,9 @@
+Package: FMRP
+Version: 0.1
+Date: 2018-03-27
+Title: Analysis and Visualization of Amplicon Data
+Description: Microbiome Analysis.
+Author: Fauzul Mobeen <faizgwalior@gmail.com>
+Maintainer: Fauzul Mobeen <faizgwalior@gmail.com>
+License: MIT + file LICENSE
+RoxygenNote: 6.0.1
